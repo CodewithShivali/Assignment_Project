@@ -1,1 +1,1 @@
-# Assignment_Project
+# heart_disease_predictor
